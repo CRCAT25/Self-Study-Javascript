@@ -38,4 +38,4 @@ function giaiThua(number){
     return 1;
 }
 
-console.log(giaiThua(10));
+console.log(giaiThua(20));
